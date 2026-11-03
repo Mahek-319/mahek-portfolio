@@ -154,4 +154,4 @@ Graduation Year: 2026
 
 ⭐ If you find this project interesting, feel free to explore the repository!
 
-**Made with ❤️ by Mahek Gupta**
+**Made by Mahek Gupta**
