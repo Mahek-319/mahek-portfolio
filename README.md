@@ -110,16 +110,15 @@ The portfolio is deployed on an AWS EC2 Ubuntu instance using Docker and Nginx.
 - Cloud-based learning platform.
 - Frontend, backend, and database integration.
 - Deployed on AWS EC2.
-- Website: https://myeducloude.in
-
-### 2. Personal Portfolio Website
+  
+ 2. Personal Portfolio Website
 
 - Designed and developed using HTML and CSS.
 - Containerized using Docker.
 - Served using Nginx.
 - Deployed on AWS EC2 Ubuntu.
 
-## 📚 Skills & Learning
+📚 Skills & Learning
 
 **Hands-on Practice:**
 - AWS: EC2, S3, IAM, VPC, CloudFront
