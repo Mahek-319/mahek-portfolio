@@ -5,7 +5,6 @@
 </p>
 
 Welcome to my personal portfolio repository! I'm **Mahek Gupta**, a B.Tech graduate in Electronics & Telecommunications, passionate about Cloud Computing, Linux, Docker, and DevOps technologies.
-
 This project showcases my technical skills, projects, and hands-on experience in building and deploying web applications using AWS and Docker.
 
 ## 🚀 Live Portfolio
@@ -118,7 +117,7 @@ The portfolio is deployed on an AWS EC2 Ubuntu instance using Docker and Nginx.
 - Served using Nginx.
 - Deployed on AWS EC2 Ubuntu.
 
-##📚 Skills & Learning
+## 📚 Skills & Learning
 
 **Hands-on Practice:**
 - AWS: EC2, S3, IAM, VPC, CloudFront
