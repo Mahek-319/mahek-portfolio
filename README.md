@@ -9,6 +9,7 @@ This project showcases my technical skills, projects, and hands-on experience in
 
 ## 🚀 Live Portfolio
 
+💻 **Download My Complete Portfolio:** [View HTML Portfolio](assets/Mahek-Portfolio-Complete.html)
 💻 **GitHub:** https://github.com/Mahek-319
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/mahek-gupta-b834a8338
