@@ -9,8 +9,6 @@ This project showcases my technical skills, projects, and hands-on experience in
 
 ## 🚀 Live Portfolio
 
-🌐 **Website:** http://43.204.103.169
-
 💻 **GitHub:** https://github.com/Mahek-319
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/mahek-gupta-b834a8338
