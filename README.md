@@ -152,6 +152,4 @@ Graduation Year: 2026
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
-
-**Made by Mahek Gupta**
+This project was independently designed and developed by Mahek Gupta as a personal learning and Hand on Experience.
